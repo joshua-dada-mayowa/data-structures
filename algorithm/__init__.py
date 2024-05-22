@@ -4,3 +4,4 @@ import linear_search
 import selection_sort
 import recursive_binary_search
 import merge_sort
+import merge_sort_on_array
